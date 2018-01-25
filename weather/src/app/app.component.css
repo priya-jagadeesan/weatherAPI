@@ -1,0 +1,12 @@
+div{
+    background-color: bisque;
+}
+
+a{
+    color: blue;
+    text-decoration: underline;
+}
+
+a:hover{
+    cursor: hand;
+}
